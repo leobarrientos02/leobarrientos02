@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello world, I am Leonel Barrientos 👋
+
+### I'm a Full Stack Developer
 
 <!--
 **leobarrientos02/leobarrientos02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
