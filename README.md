@@ -6,9 +6,11 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and developing modern web applications.
 
-- :zap: In my free time, I make cool website designs and hit the gym🏋️‍♂️
+- 🖥️ My Portfolio: [www.leonel-e-barrientos.netlify.app](https://leonel-e-barrientos.netlify.app/)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-barrientos-519b5a152/)
+- ⚡ In my free time, I make cool website designs and hit the gym🏋️‍♂️
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-barrientos-519b5a152/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
