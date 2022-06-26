@@ -33,6 +33,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Github Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leobarrientos02&theme=dark&show_icons=true&hide=stars,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leobarrientos02&theme=dark&show_icons=true&hide=issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobarrientos02&hide=hack,ruby,scss&layout=compact&theme=dark&show_icons=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
